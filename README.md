@@ -18,6 +18,10 @@ This is main menu user can select the required task to be performed
 This is add menu where user can add his record of a particular date 
 ![2](https://user-images.githubusercontent.com/44353958/66752317-ff9acd00-ee45-11e9-84c7-c6324cb4bf4a.JPG)
 
+This view menu where user can view his record.he has to enter his password to view his record.He can view the entire record or particular record by time.
+![6-1](https://user-images.githubusercontent.com/44353958/66754367-a8e3c200-ee4a-11e9-917a-60aec146c5fa.JPG)
+![6-2](https://user-images.githubusercontent.com/44353958/66754369-abdeb280-ee4a-11e9-8d60-5c40b0dbb12c.JPG)
+
 This edit menu where user can edit his time,destination,duration ,note of a particular record. this password protected dairy so  user has to enter his password to edit the record . so ,no person can edit the record untill and unless he knows the password.
 
 ![3](https://user-images.githubusercontent.com/44353958/66752332-04f81780-ee46-11e9-9b9a-0b1921509998.JPG)
